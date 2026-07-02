@@ -33,10 +33,12 @@ The goal of this project is to:
 ## Project Structure
 
 ```
-array-prototype-methods/
+arraymethods/
 │
-├── arrayMethods.js
-├── README.md
+├── src/
+     ├── methods/
+            ├── filter.js
+ 
 ```
 
 ---
